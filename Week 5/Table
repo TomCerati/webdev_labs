@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
     <table>
 
         <thead>
@@ -12,9 +13,14 @@
         </thead>
 
         <btable>
+            <tr>
+                <td>Jim</td>
+                <td>Sue</td>
+                <td>Tom</td>
+            </tr>
 
 
-        </table>
+        </btable>
 
     </table>
 
