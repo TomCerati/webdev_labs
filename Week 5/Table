@@ -4,6 +4,8 @@
         <thead>
             <tr>
                 <th>Name</th>
+                <th>ID</th>
+                <th>Favorite Color</th>
             </tr>
 
         </thead>
